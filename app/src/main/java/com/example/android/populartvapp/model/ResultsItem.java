@@ -6,7 +6,6 @@ import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
 import java.util.ArrayList;
-import java.util.List;
 import com.google.gson.annotations.SerializedName;
 
 @Entity(tableName = "api_table")
